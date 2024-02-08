@@ -1,5 +1,5 @@
-import React from 'react'
-import { useEffect } from 'react'
+// import React from 'react'
+// import { useEffect } from 'react'
 import { useLoaderData } from 'react-router-dom'
 
 function Github() {
